@@ -1,0 +1,9 @@
+Автомагазин, коли (модел),рег№, цвят, рама, част без ддс, цена (част с ддс)
+1) Keyboard multiple input - console
+2) IO operation (txt,json,parquet)
+3) Read file
+4) Convert to pandas
+5) Do some criteria
+6) Print statistics
+overall sum for parts with their respective prices
+sum by VIN
